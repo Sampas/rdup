@@ -1,0 +1,2 @@
+# rdup
+Duplicate file finder
